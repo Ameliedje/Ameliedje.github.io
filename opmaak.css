@@ -12,6 +12,12 @@ iframe {
   height: 500px;
 }
 
+header {
+  background-image:url("../images/background.jpg");
+  width: 960px;
+  height: 150px;
+}
+
 .wrapper {
   margin: 0 auto 0 auto;
   width: 960px;
@@ -33,4 +39,9 @@ ul li {
 ul li a {
   color: rgb(152, 35, 158);
   text-decoration: none;
+}
+
+.lego {
+  width: 400px;
+  height: 300px;
 }
