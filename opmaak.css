@@ -68,6 +68,12 @@ h1 {
 
 #active {
   background-color: rgb(147, 0, 150);
+  height: 30px;
+  width: 70px;
+}
+
+a:visited {
+  font-size: 20px;
 }
 
 a {
@@ -76,4 +82,9 @@ a {
 
 h2 {
   font-family: 'Noto Serif', serif;
+}
+
+.plaatje {
+  height: 300px;
+  width: 300px;
 }
