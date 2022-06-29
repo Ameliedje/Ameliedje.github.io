@@ -38,7 +38,7 @@ ul li {
   display: inline-block;
 }
 
-ul li a {
+ul li {
   color: rgb(152, 35, 158);
   text-decoration: none;
 }
@@ -63,4 +63,12 @@ h1 {
 .wrapper {
   margin: 3 auto 0 auto;
   width: 950px;
+}
+
+#active {
+  background-color: rgb(147, 0, 150);
+}
+
+a {
+  color: rgb(176, 169, 176);
 }
